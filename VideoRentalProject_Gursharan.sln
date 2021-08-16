@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{48EDCF3A-F3C9-480A-9F0F-15FD90E2AB7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoRentalProject_Gursharan", "VideoRentalProject_Gursharan\VideoRentalProject_Gursharan.csproj", "{614E1EA5-318D-4245-9D19-2F12310D2236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48EDCF3A-F3C9-480A-9F0F-15FD90E2AB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EDCF3A-F3C9-480A-9F0F-15FD90E2AB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EDCF3A-F3C9-480A-9F0F-15FD90E2AB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EDCF3A-F3C9-480A-9F0F-15FD90E2AB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614E1EA5-318D-4245-9D19-2F12310D2236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614E1EA5-318D-4245-9D19-2F12310D2236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614E1EA5-318D-4245-9D19-2F12310D2236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614E1EA5-318D-4245-9D19-2F12310D2236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97E46728-44B7-49FD-9CB9-9A2D27944428}
+	EndGlobalSection
+EndGlobal
